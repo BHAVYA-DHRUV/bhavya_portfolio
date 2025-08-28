@@ -1,10 +1,10 @@
-# Abhishek Yadav's Portfolio
+# Bhavya Dhruv's Portfolio
 
 Welcome to my portfolio website! This repository contains the source code for my personal portfolio, showcasing my skills, projects, and experience.
 
 ## Live Demo
 
-Check out the live version of my portfolio [here](https://portfolio-abhishekyadav.netlify.app/).
+Check out the live version of my portfolio [here](https://bhavya-portfolio-o7lo.onrender.com/).
 
 ## Technologies Used
 
@@ -23,12 +23,6 @@ here's how i did the animation thingy
 - vi. Remove background of all the sketch images. now you have ready to use images to use in your animation.
 - vii. You can use Animation, Transistion properties to mimic an animation/video like effect.
 
-
-
-
-
-
-
 ## Features
 
 - **Home**: Introduction and overview of who I am.
@@ -42,7 +36,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BHAVISHEK1/Portfolio.git
+   git clone https://github.com/BHAVYA-DHRUV/bhavya_portfolio
    ```
 2. Navigate to the project directory:
    ```bash
@@ -59,5 +53,4 @@ To run this project locally:
 
 ## Contact
 
-You can reach me at [ay7924252@gmail.com](mailto:ay7924252@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-yadav).
-
+You can reach me at [bhavyadhruv99@gmail.com](mailto:bhavyadhruv99@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/bhavya-dhruv-494a84324/).
